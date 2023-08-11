@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+
+.bg-color {
+    background-color: white;
+}
+
+.span-element {
+    text-decoration: underline;
+}
+
+.shipping-icon {
+    font-size: 22px;
+    color: blue;
+}
+
+.button-style {
+    text-align: right;
+}
+
+.imggvrc {
+    color: #959ead;
+    border-style: solid;
+    height: 40px;
+    width: 35px;
+    padding: 7px;
+    padding-top: 10px;
+    border-radius: 50px;
+    border-color: white;
+}
+
+.details-heading {
+    font-size: 22px;
+}
+
+li {
+    list-style: none;
+    ;
+}
+
+.dbms {
+    display: flex;
+    justify-content: space-between;
+}
+
+.ab {
+    color: grey;
+}
+
+.abc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+
+    width: 100%;
+    height: 50px;
+    border-radius: 15px;
+}
+
+.image-container {
+    width: 20%;
+    background-color: #ccdcdd;
+    text-align: center;
+    display: flex;
+    border-radius: 12px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.adress-box {
+    width: 100%;
+    height: 50px;
+    border-radius: 15px;
+}
+
+.apt-box {
+    height: 50px;
+    width: 100%px;
+    border-radius: 15px;
+}
+
+
+.payment-btn {
+    height: 50px;
+    width: 280px;
+    border-radius: 20px;
+}
+
+.cancel-btn {
+    height: 50px;
+    width: 80px;
+    border-radius: 30px;
+}
+
+
+* {
+    font-family: "bree serif";
+}
+
+.main-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.plusminus {
+    display: flex;
+    justify-content: space-between;
+}
+
+.minus {
+    border-radius: 50%;
+    height: 25px;
+    width: 20px;
+    color: grey;
+    border-style: solid;
+    border-color: grey;
+}
+
+.plus {
+    border-radius: 50%;
+    text-align: center;
+    height: 25px;
+    width: 20px;
+    color: grey;
+    border-style: solid;
+    border-color: grey;
+}
+
+.oops {
+    border-radius: 10%;
+    text-align: center;
+    height: 25%;
+    width: 70%;
+    color: grey;
+    border-style: solid;
+    border-color: lightgreen;
+}
+
+.text-green {
+    color: lightgreen;
+}
+
+.remove {
+    color: blue;
+}
+
+.sp {
+    text-decoration: underline;
+}
+
+.button {
+    border-radius: 30px;
+    background-color: grey;
+    margin-bottom: 4px;
+    color: white;
+}
+
+.text {
+    background-color: orange;
+    border-radius: 25px;
+    width: 80%;
+    border: 0px;
+    padding: 7px;
+}
+
+.last-container {
+    display: flex;
+    justify-content: space-between;
+}
